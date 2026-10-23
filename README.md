@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/BPranesh27/Leetcode-solution/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/BPranesh27/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/BPranesh27/Leetcode-solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BPranesh27/Leetcode-solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BPranesh27/Leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/BPranesh27/Leetcode-solution/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BPranesh27/Leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -45,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/BPranesh27/Leetcode-solution/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BPranesh27/Leetcode-solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/BPranesh27/Leetcode-solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
